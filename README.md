@@ -1,5 +1,5 @@
 # Traffic-Sign-Prediction
-Image Classification Task using a Convolutional Neural Netwokr on Traffic Signs. 
+Image Classification Task using a Convolutional Neural Network on Traffic Signs. 
 
 Neural Network Framework: Keras API from Tensorflow
 
